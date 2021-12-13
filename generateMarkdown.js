@@ -33,19 +33,27 @@ function generateMarkdown(data) {
   return `# ${data.title}
 ## License
 ${renderLicenseLink(data.license)}  
-## Table of Contents  
+## Table of Contents 
+- [ProjectTitle](#projectTitle) 
 - [Decription](#decription)  
 - [Installation](#installation)
-- [Usage](#usage) 
+- [Usage](#usage)
+- [License](#license) 
 - [Contributing](#contributing)  
 - [Tests](#tests)   
 - [Questions](#questions) 
+- [Username](#username)
+- [Email](#email)
+## ProjectTitle
+${data.projectTitle}
 ## Decription
 ${data.decription}
 ## Installation
 ${data.installation}
 ## Usage
 ${data.usage}
+## Liscense
+${data.license}
 ## Contributing
 ${data.contributing}
 ## Tests
