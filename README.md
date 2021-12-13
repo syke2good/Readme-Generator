@@ -1,23 +1,17 @@
-# undefined
-## License
-undefined  
-## Table of Contents  
-- [Decription](#decription)  
-- [Installation](#installation)
-- [Usage](#usage) 
-- [Contributing](#contributing)  
-- [Tests](#tests)   
-- [Questions](#questions) 
-## Decription
-undefined
+## ProjectTitle
+READ-Me Generator
+## Description
+This was a read-me generator using node.
 ## Installation
-we used npm, gitbash and wrote function codes.
+used npm, node and coding.
 ## Usage
-for professional read-me for projects.
+professional read-me for projects.
+## Liscense
+MIT
 ## Contributing
 me
 ## Tests
-there is a demo needed
+just a demo.
 ## Questions
-- GitHub Profile Page:(https://github.com/look through my github or contact me.).
+- GitHub Profile Page:(https://github.com/contact me).
 - Any other question contact: akashbhandari930@gmail.com
